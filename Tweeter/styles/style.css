@@ -1,0 +1,35 @@
+p, h3, h1 {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    border: 1px solid darkgrey;
+    width: 33vw;
+    height: 15vh;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+textarea {
+    width: 33vw;
+    height: 5vh;
+    margin-top: 50px;
+}
+
+#loginBody {
+    font-size: xx-large;
+}
+
+#loginBody input{
+    font-size: xx-large;
+}
